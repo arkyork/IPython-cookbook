@@ -1,0 +1,1 @@
+https://github.com/ipython-books/cookbook-2nd
