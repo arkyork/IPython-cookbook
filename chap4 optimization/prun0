@@ -1,0 +1,16 @@
+         2384 function calls (2373 primitive calls) in 0.017 seconds
+
+   Ordered by: cumulative time
+   List reduced from 170 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.012    0.012 {built-in method builtins.exec}
+        1    0.006    0.006    0.012    0.012 <string>:1(<module>)
+       50    0.000    0.000    0.006    0.000 _histograms_impl.py:686(histogram)
+       50    0.000    0.000    0.005    0.000 fromnumeric.py:973(sort)
+       50    0.005    0.000    0.005    0.000 {method 'sort' of 'numpy.ndarray' objects}
+        1    0.003    0.003    0.003    0.003 2276438903.py:1(step)
+        1    0.000    0.000    0.002    0.002 fromnumeric.py:2904(cumsum)
+        1    0.000    0.000    0.002    0.002 fromnumeric.py:51(_wrapfunc)
+        1    0.002    0.002    0.002    0.002 {method 'cumsum' of 'numpy.ndarray' objects}
+        3    0.000    0.000    0.001    0.000 base_events.py:1910(_run_once)
